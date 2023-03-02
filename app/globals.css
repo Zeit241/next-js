@@ -94,9 +94,9 @@ body {
   background: linear-gradient(
       to bottom,
       transparent,
-      rgb(var(--background-end-rgb))
+      rgb(var(--primary-glow))
     )
-    rgb(var(--background-start-rgb));
+
 }
 
 a {
